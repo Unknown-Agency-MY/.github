@@ -1,4 +1,3 @@
-# Unknown Agency
 <div align="center">
 
   <img src="https://github.com/Unknown-Agency-MY/agency-internal/raw/refs/heads/main/logo" width="120" alt="Unknown Agency Logo" />
@@ -6,8 +5,6 @@
   <h1>Unknown Agency</h1>
 
   <p><b>High-performance front-end development for Webflow.</b></p></div>
-
-### High-performance front-end development for Webflow.
 
 We bridge the gap between design freedom and engineering rigor. Specializing in complex interactions, custom attributes, and scalable code architectures for agencies and brands.
 
