@@ -1,4 +1,4 @@
-<div align="align-right">
+<div align="left">
 
   <img src="https://github.com/Unknown-Agency-MY/agency-internal/raw/refs/heads/main/logo" width="120" alt="Unknown Agency Logo" />
 
