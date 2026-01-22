@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="https://github.com/Unknown-Agency-MY/agency-internal/raw/refs/heads/main/logo" width="120" alt="Unknown Agency Logo" />
+  <img src="https://github.com/Unknown-Agency-MY/github/raw/refs/heads/main/logo" width="120" alt="Unknown Agency Logo" />
 
   <h1>Unknown Agency</h1>
 
